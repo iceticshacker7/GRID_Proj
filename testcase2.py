@@ -51,7 +51,7 @@ for i in range(0, len(res)):
     comp(res[i])
    
 str = ('``` \n'
-       'Types of Files present in Repo: \n\n'
+       '\n\nTypes of Files present in Repo: \n\n'
        # this line is the part I need help with: list comprehension for the 2 lists to output the values as shown below
        '```')
 print(str)
