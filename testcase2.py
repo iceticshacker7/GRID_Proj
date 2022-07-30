@@ -49,13 +49,11 @@ def comp(t):
 for i in range(0, len(res)):
     fullstring = res[i]
     comp(res[i])
-'''   
+   
 str = ('``` \n'
        'Types of Files present in Repo: \n\n'
-       'Java \t\t\t\t Source File        \n'
        # this line is the part I need help with: list comprehension for the 2 lists to output the values as shown below
        '```')
 print(str)
-res = "\n".join("{}\t\t{}".format(x, y) for x, y in zip(java, source))
+res = "\n".join("{}\t\t{}".format(x, y) for x, y in zip(java, source, pyth))
 print(res)
-'''
