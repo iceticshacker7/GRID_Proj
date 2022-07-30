@@ -1,0 +1,11 @@
+STEP 1:
+
+Type "pip install -r reruirements.txt" in your terminal.
+
+STEP 2:
+
+Run "main.py" file using "python main.py"
+
+STEP 3:
+
+Paste the Link of the exe/Dll file and press Enter.

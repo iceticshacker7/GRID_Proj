@@ -1,0 +1,3 @@
+Testcase 1:
+
+Checking an downloaded or an uploaded exe or a .dll file through machine learning using Random Forest Method.(Accomplished)

@@ -1,0 +1,14 @@
+1: PLease Download testcase2 from the link:
+               https://github.com/iceticshacker7/GRID_Proj
+
+
+2: Open Cmd in the folder u downloaded the file and run "python testcase2.py"
+
+
+3: Enter the link of the repository that contains files with extensions '.py' '.java' '.cs' '.cpp' 
+Example:      https://github.com/iceticshacker7/PythonCodes
+
+
+4: If the the script has any security threats it will display Vulnerabilities found and if not  it will display no vulnerabilities found below the name of the file in both the cases.
+
+Thank you!!!
